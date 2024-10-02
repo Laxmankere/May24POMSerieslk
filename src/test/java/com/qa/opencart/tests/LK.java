@@ -1,0 +1,11 @@
+package com.qa.opencart.tests;
+
+public class LK {
+	
+	public static void main(String[] args) {
+		System.out.println("Hi");
+		
+	}
+
+
+}
